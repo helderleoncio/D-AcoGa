@@ -1,0 +1,3 @@
+num_iteracoes,best_fitness,melhor_acuraria,melhor_precision,melhor_recall,melhor_f1score,melhor_curva_roc,num_atributos,melhores_atributos,tempo_ineracao
+0,0.0,0.0,0.0,0.0,0.0,0.0,0,[],227.70306038856506
+1,0.08131922421764796,0.9807098440648343,0.9580398337462162,0.9868534215810497,0.9715326881052929,0.9868534215810497,12,"[21, 7, 11, 14, 10, 17, 13, 9, 20, 19, 15, 12]",227.70306038856506
